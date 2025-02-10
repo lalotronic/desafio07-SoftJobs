@@ -20,12 +20,12 @@ Este proyecto consiste en un servidor backend que ofrece una API RESTful para la
 
 3. Tecnologías usadas:<br>
 
-    - Node.js**: Framework de JavaScript para construir el servidor.<br>
-    - Express.js**: Para manejar rutas y middlewares.<br>
-    - PostgreSQL**: Base de datos relacional.<br>
-    - bcryptjs**: Para encriptar contraseñas.<br>
-    - jsonwebtoken**: Para la autenticación basada en tokens.<br>
-    - dotenv**: Manejo de variables de entorno.<br>
+    - Node.js**: {Framework de JavaScript para construir el servidor.}<br>
+    - Express.js**: {Para manejar rutas y middlewares.}<br>
+    - PostgreSQL**: {Base de datos relacional.}<br>
+    - bcryptjs**: {Para encriptar contraseñas.}<br>
+    - jsonwebtoken**: {Para la autenticación basada en tokens.}<br>
+    - dotenv**: {Manejo de variables de entorno.}<br>
 
 
 
