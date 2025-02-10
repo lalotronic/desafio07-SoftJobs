@@ -29,7 +29,7 @@ Este proyecto consiste en un servidor backend que ofrece una API RESTful para la
 
 
 
-Nota: El archivo .env no se ha añadido al archivo .gitignore con el fin de permitir la visualización de las variables de entorno utilizadas en este proyecto.<br>
+
 
 ## Observaciones
 
