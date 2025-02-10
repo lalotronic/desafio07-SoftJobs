@@ -11,7 +11,7 @@ Este proyecto consiste en un servidor backend que ofrece una API RESTful para la
 
 1. Inicia el servidor:<br>
 
-- El servidor estará disponible en `http://localhost:3001`, también se modifico en el front para que se comunicaran.<br>
+    - El servidor estará disponible en `http://localhost:3001`, también se modifico en el front para que se comunicaran.<br>
 
 2. Endpoints disponibles:<br>
     - POST /usuarios**: Registramos un nuevo usuario.<br>
