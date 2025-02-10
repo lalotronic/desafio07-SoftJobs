@@ -33,6 +33,6 @@ Nota: El archivo .env no se ha añadido al archivo .gitignore con el fin de perm
 
 ## Observaciones
 
--Se debe levantar los dos carpetas separadas tanto para el backend y el frontend y aplicar npm i a cada uno de las carpetas para cargar el node_modules<br>
+-Se debe levantar las dos carpetas separadas tanto para el backend y el frontend y aplicar npm i a cada uno de las carpetas para cargar el node_modules<br>
 -Recuerda tener una base datos disponible (tal como se solicito en el documento guía), en este caso la creamos con pgAdmin.
 
