@@ -31,7 +31,8 @@ Este proyecto consiste en un servidor backend que ofrece una API RESTful para la
 
 Nota: El archivo .env no se ha añadido al archivo .gitignore con el fin de permitir la visualización de las variables de entorno utilizadas en este proyecto.<br>
 
-## observaciones
+## Observaciones
 
-Se debe levantar los dos carpetas separadas tanto para el backend y el frontend y aplicar npm i a cada uno de las carpetas para cargar el node_modules<br>
+-Se debe levantar los dos carpetas separadas tanto para el backend y el frontend y aplicar npm i a cada uno de las carpetas para cargar el node_modules<br>
+-Recuerda tener una base datos disponible (tal como se solicito en el documento guía), en este caso la creamos con pgAdmin.
 
