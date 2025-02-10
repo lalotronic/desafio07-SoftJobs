@@ -1,6 +1,6 @@
 # Desafío: Servidor SoftJobs
 Un servidor creado con Node.js, Express y PostgreSQL que gestiona la autenticación de usuarios y las funciones esenciales de la aplicación SoftJobs.<br>
-##Descripción
+# Descripción
 Este proyecto consiste en un servidor backend que ofrece una API RESTful para la gestión de usuarios.<br>
 
 -Permite el registro de nuevos usuarios.<br>
@@ -34,4 +34,4 @@ Nota: El archivo .env no se ha añadido al archivo .gitignore con el fin de perm
 ## observaciones
 
 Se debe levantar los dos carpetas separadas tanto para el backend y el frontend y aplicar npm i a cada uno de las carpetas para cargar el node_modules<br>
-# desafio07-SoftJobs
+
